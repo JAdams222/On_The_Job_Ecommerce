@@ -1,0 +1,32 @@
+/* Reset and global styling */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Product section styling */
+.products h2 {
+    color: #333;
+    font-size: 2rem;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+    border-bottom: 1px solid #ddd;
+}
+
+/* Footer styling */
+footer p {
+    margin: 0;
+    font-size: 0.9rem;
+}
+
